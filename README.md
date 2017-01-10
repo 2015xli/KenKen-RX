@@ -1,6 +1,10 @@
 # A simple solver for KenKen (KenDoku) 
  
- It uses RxJava. To run it, please include RxJava package in the classpath.
+ There is another version that does not depend on RxJava under 
+ 
+ https://github.com/2015xli/KenKen
+ 
+ This version uses RxJava. To run it, please include RxJava package in the classpath.
  
  For SuDoKu solutions, input an integer that represents the matrix size, such as:
  ```java
